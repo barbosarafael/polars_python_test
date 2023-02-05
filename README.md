@@ -4,9 +4,9 @@ Tutorial de Polars com códigos e traduções em Pandas.
 
 ## Sumário:
 
-- [ ] Carregando os dados: CSV e Excel
-- [ ] Informações iniciais do dataframe: head, info, shape e etc.
-- [ ] Selecionando colunas específicas: por nome e por index
+- [X] Carregando os dados: CSV e Excel
+- [X] Informações iniciais do dataframe: head, info, shape e etc.
+- [X] Selecionando colunas específicas: por nome e por index
 - [ ] Operações entre colunas: soma, multiplicação e etc.
 - [ ] Renomeando colunas
 - [ ] Filtrando as linhas: igual, diferente, maior que, menor que, está dentro de uma lista, nulos
@@ -24,3 +24,4 @@ Tutorial de Polars com códigos e traduções em Pandas.
 - [ ] Exportando os dados
 - [ ] Criando e aplicando funções personalizadas
 - [ ] Trabalhando com JSON (talvez)
+- [ ] Revisar a escrita
