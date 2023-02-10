@@ -2,7 +2,7 @@
 
 Repositório com um tutorial simples e claro de Polars, biblioteca de análise de dados no Python, uma alternativa ao Pandas no Python.
 
-O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb). Mas em cada um dos tópicos abaixo há um link que leva diretamente ao tópico do notebook com a aplicação.
+O notebook se encontra em: [01-polars_notebook.ipynb](https://github.com/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb). Mas em cada um dos tópicos abaixo há um link que leva diretamente ao tópico do notebook com a aplicação.
 
 ## Sumário:
 
@@ -12,9 +12,9 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/githu
 - [X] Operações entre colunas: soma, multiplicação e etc.
 - [X] Renomeando colunas
 - [X] Filtrando as linhas: igual, diferente, maior que, menor que, está dentro de uma lista
-- [ ] Funções de agregação: value_counts, média, mínimo, máximo e etc.
-- [ ] Funções de agregação + group by
-- [ ] Funções de agregação + group by + filtros
+- [X] Funções de agregação: value_counts, média, mínimo, máximo e etc.
+- [X] Funções de agregação + group by
+- [X] Funções de agregação + group by + filtros
 - [ ] Ordenando as linhas
 - [ ] Trabalhar com duplicatas
 - [ ] Lidando com valores nulos: fillna(), dropna(), filtros e etc.
