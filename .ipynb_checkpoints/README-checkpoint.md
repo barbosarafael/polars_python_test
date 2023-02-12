@@ -7,7 +7,7 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://github.com/barbosa
 
 ## Sumário:
 
-- [X] [Carregando os dados: CSV e Excel](./01-notebook/01-polars_notebook.ipynb#bullet0)
+- [X] Carregando os dados: CSV e Excel
 - [X] Informações iniciais do dataframe: head, info, shape e etc.
 - [X] Selecionando colunas específicas: por nome e por index
 - [X] Operações entre colunas: soma, multiplicação e etc.
