@@ -15,14 +15,12 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://github.com/barbosa
 - [X] Funções de agregação: value_counts, média, mínimo, máximo e etc.
 - [X] Funções de agregação + group by
 - [X] Funções de agregação + group by + filtros
-- [ ] Ordenando as linhas
-- [ ] Trabalhar com duplicatas
-- [ ] Lidando com valores nulos: fillna(), dropna(), filtros e etc.
-- [ ] Utilizando o replace
-- [ ] Joins
-- [ ] Pivot table
-- [ ] Operações com datas
-- [ ] Visualização de dados (rápidas)
+- [X] Ordenando as linhas
+- [X] Trabalhar com duplicatas
+- [X] Lidando com valores nulos: fillna(), dropna(), filtros e etc.
+- [X] Joins
+- [X] Pivot table
+- [X] Operações com datas
 - [ ] Exportando os dados
 - [ ] Criando e aplicando funções personalizadas
 - [ ] Trabalhando com JSON (talvez)
