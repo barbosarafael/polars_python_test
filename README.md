@@ -4,9 +4,10 @@ Repositório com um tutorial simples e claro de Polars, biblioteca de análise d
 
 O notebook se encontra em: [01-polars_notebook.ipynb](https://github.com/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb). Mas em cada um dos tópicos abaixo há um link que leva diretamente ao tópico do notebook com a aplicação.
 
+
 ## Sumário:
 
-- [X] Carregando os dados: CSV e Excel
+- [X] [Carregando os dados: CSV e Excel](./01-notebook/01-polars_notebook.ipynb#bullet0)
 - [X] Informações iniciais do dataframe: head, info, shape e etc.
 - [X] Selecionando colunas específicas: por nome e por index
 - [X] Operações entre colunas: soma, multiplicação e etc.
