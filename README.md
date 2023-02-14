@@ -26,6 +26,7 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://github.com/barbosa
 - [X] Criando e aplicando funções personalizadas
 - [X] Trabalhando com JSON (talvez)
 - [ ] Revisar a escrita
+- [ ] Adicionar a parte teórica do Rust/Polars
 
 
 
