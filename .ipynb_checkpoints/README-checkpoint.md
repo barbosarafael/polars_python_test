@@ -22,9 +22,9 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://github.com/barbosa
 - [X] Joins
 - [X] Pivot table
 - [X] Operações com datas
-- [ ] Exportando os dados
-- [ ] Criando e aplicando funções personalizadas
-- [ ] Trabalhando com JSON (talvez)
+- [X] Exportando os dados
+- [X] Criando e aplicando funções personalizadas
+- [X] Trabalhando com JSON (talvez)
 - [ ] Revisar a escrita
 
 
