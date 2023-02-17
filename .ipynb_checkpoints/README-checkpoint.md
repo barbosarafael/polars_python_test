@@ -2,10 +2,9 @@
 
 Repositório com um tutorial simples e claro de Polars, biblioteca de análise de dados no Python, uma alternativa ao Pandas no Python.
 
-O notebook se encontra em: [01-polars_notebook.ipynb](https://github.com/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb). Mas em cada um dos tópicos abaixo há um link que leva diretamente ao tópico do notebook com a aplicação.
+O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb). 
 
-
-## Sumário:
+## Pontos abordados:
 
 - [X] Carregando os dados: CSV e Excel
 - [X] Informações iniciais do dataframe: head, info, shape e etc.
