@@ -26,6 +26,7 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/githu
 - [X] [**17. Trabalhando com JSON**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header17)
 - [ ] Revisar a escrita
 - [ ] Adicionar a parte teórica do Rust/Polars
+- [ ] Adicionar um passo a passo de instalação do Polars + VirtualEnv
 
 <p align="center">
   <img src="https://media.giphy.com/media/5p8QuXUTk1rIk/giphy.gif" alt="animated" />
