@@ -19,6 +19,7 @@ cycler==0.11.0
 debugpy==1.6.6
 decorator==5.1.1
 defusedxml==0.7.1
+et-xmlfile==1.1.0
 executing==1.2.0
 fastjsonschema==2.16.2
 fonttools==4.38.0
@@ -33,7 +34,11 @@ Jinja2==3.1.2
 json5==0.9.11
 jsonpointer==2.3
 jsonschema==4.17.3
+jupyter-contrib-core==0.4.2
+jupyter-contrib-nbextensions==0.7.0
 jupyter-events==0.5.0
+jupyter-highlight-selected-word==0.2.0
+jupyter-nbextensions-configurator==0.6.1
 jupyter-ydoc==0.2.2
 jupyter_client==8.0.2
 jupyter_core==5.2.0
@@ -45,6 +50,7 @@ jupyterlab==3.6.0
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.19.0
 kiwisolver==1.4.4
+lxml==4.9.2
 MarkupSafe==2.1.2
 matplotlib==3.6.3
 matplotlib-inline==0.1.6
@@ -57,6 +63,7 @@ nest-asyncio==1.5.6
 notebook==6.5.2
 notebook_shim==0.2.2
 numpy==1.24.1
+openpyxl==3.1.1
 packaging==23.0
 pandas==1.5.3
 pandocfilters==1.5.0
