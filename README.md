@@ -24,7 +24,7 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/githu
 - [X] [**15. Exportando os dados**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header15)
 - [X] [**16. Criando e aplicando funções personalizadas**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header16)
 - [X] [**17. Trabalhando com JSON**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header17)
-- [X] [**18. Window functions: row number e rank**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header18)
+- [X] [**18. Window functions:** row number e rank](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header18)
 - [ ] Adicionar a parte teórica do Rust/Polars
 - [ ] Adicionar um passo a passo de instalação do Polars + VirtualEnv no README
 - [ ] Revisar a escrita
