@@ -26,6 +26,7 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/githu
 - [X] [**17. Trabalhando com JSON**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header17)
 - [X] [**18. Window functions:** row number e rank](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header18)
 - [X] [**19. Um pouco de teoria:** breve descrição e referências](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header19)
+- [X] [**20. Bônus e referências**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header20)
 - [X] Adicionar um passo a passo de instalação do Polars + VirtualEnv no README
 
 ## Instalação (Ubuntu/Debian/Mint):
