@@ -1,6 +1,6 @@
 # Polars (versão 0.16.2)
 
-Repositório com um tutorial simples e claro de Polars, biblioteca de análise de dados no Python, uma alternativa ao Pandas no Python.
+Repositório com um tutorial simples e claro de Polars, biblioteca de análise de dados no Python, uma alternativa ao Pandas.
 
 O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb). 
 
@@ -26,7 +26,29 @@ O notebook se encontra em: [01-polars_notebook.ipynb](https://nbviewer.org/githu
 - [X] [**17. Trabalhando com JSON**](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header17)
 - [X] [**18. Window functions:** row number e rank](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header18)
 - [X] [**19. Um pouco de teoria:** breve descrição e referências](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb#header19)
-- [ ] Adicionar um passo a passo de instalação do Polars + VirtualEnv no README
+- [X] Adicionar um passo a passo de instalação do Polars + VirtualEnv no README
+
+## Instalação (Ubuntu/Debian/Mint):
+
+Criando uma virtual environment (venv) antes de tudo:
+
+```bash
+python3 -m venv venv
+```
+
+Ative a venv:
+
+```bash
+. venv/bin/activate
+```
+
+Instale todas as libs necessárias que estão no `requirements.txt`:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+Enjoy! 
 
 <p align="center">
   <img src="https://media.giphy.com/media/5p8QuXUTk1rIk/giphy.gif" alt="animated" />
